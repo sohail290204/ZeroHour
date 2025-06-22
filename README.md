@@ -1,2 +1,5 @@
-# ZeroHour
- Unreal Shooter Game
+**Zero Hour** is a tactical first-person shooter that puts players in the role of an elite operative on a mission to infiltrate a terrorist-controlled building, rescue hostages, and escape before a bomb detonates. The gameplay starts with a stealth-based approach where players must eliminate enemies quietly, avoid detection, and navigate through a hostile environment. Once the hostage room is breached, the tension rises as an alarm is triggered, enemies become aggressive, and a 5-minute countdown begins, pushing the player into a fast-paced combat and escort scenario.
+
+The game features a range of systems that create a rich and dynamic experience. AI bots use sensing systems to patrol, chase, and investigate disturbances, while the player uses firearms with realistic effects like recoil, muzzle flashes, and reload animations. The level includes interactive doors with physics constraints, destructible walls that only respond to vehicles (not players), a functioning inventory system, and various cinematic sequences driven by Unreal's Sequencer. Health management, weapon systems, and bomb mechanics further deepen the gameplay, requiring quick thinking and tactical precision.
+
+Zero Hour also integrates custom animations such as body dragging and lever interactions, dynamic lighting setups, a layered widget system for clean UI, and camera switching for cutscenes. The game emphasizes strategy, urgency, and realism — blending stealth, action, and storytelling into a cohesive and thrilling experience.

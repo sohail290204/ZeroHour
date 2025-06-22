@@ -4,6 +4,9 @@ The game features a range of systems that create a rich and dynamic experience. 
 
 Zero Hour also integrates custom animations such as body dragging and lever interactions, dynamic lighting setups, a layered widget system for clean UI, and camera switching for cutscenes. The game emphasizes strategy, urgency, and realism — blending stealth, action, and storytelling into a cohesive and thrilling experience.
 
+Download Link: https://krypton29.itch.io/zero-hour
+
+https://youtu.be/3SQviYYnmFU
 
 ![image](https://github.com/user-attachments/assets/f52d173d-dc6f-47bb-a897-8fd7772946da)
 
